@@ -1,0 +1,6 @@
+{
+    "editor.renderControlCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "terminal.integrated.shellIntegration.decorationsEnabled": false
+}
